@@ -1,6 +1,6 @@
 # 👋 Hola, Soy Carlos!
 
-- Actualmente estoy aprendiendo Javascript, Python y React. 
+- Actualmente estoy aprendiendo Javascript, Node.js y React.js. 
 - Me gustaría aprender tecnologías relacionadas a la IA y a la web 3.0.
 - Tengo experiencia manejando lenguajes como C# utilizando .Net Framework, C, Java (Spring Boot).
 
